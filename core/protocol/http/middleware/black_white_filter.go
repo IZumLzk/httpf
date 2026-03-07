@@ -1,7 +1,7 @@
 package middleware
 
 import (
-	"gospacex/core/common"
+	"github.com/IZumLzk/httpf/core/common"
 	"net"
 	"net/http"
 	"strings"
